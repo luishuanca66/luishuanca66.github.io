@@ -1,0 +1,35 @@
+*{
+	margin:3px;
+	padding:3px;
+}
+body
+{
+	background-color:#003333;
+	color:#ffffff;
+	font-family:verdana;
+}
+header
+     .texto-encima{
+		position:absolute;
+		top:50px;
+		left:50px;
+	}
+nav
+{
+	background-color:4C3663;
+	height:90px;	
+}
+section
+{
+	background-color:B02424;
+	height:730px;
+	width:65%;
+	float:left;
+}
+aside
+{
+	background-color:4B8687;
+	height:300px;
+	width:30%;
+	float:right;
+}
